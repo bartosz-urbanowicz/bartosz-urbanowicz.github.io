@@ -4,9 +4,12 @@ table, th, td {
 }
 </style>
 
-<style>img:hover {
+<style>
+img:hover {
   transform: scaleX(-1);
-  </style>
+}
+</style>
+
 # Mariusz Pudzianowski
 
 ## Kariera
@@ -17,22 +20,80 @@ Ośmiokrotny Mistrz Polski Strongman. Sześciokrotny Mistrz Europy Strongman w l
 
 
 ## Trening Pudziana #1
-|ćwiczenie|ciężar|ilość serii|ilość powtórzeń|
-|---|---|---|---|
-|uginanie ramion ze sztangą łamaną|60 kg|4|8–10|
-|uginanie ramion z prostą sztangą|60–70 kg|4|8–10|
-|uginanie ramion naprzemienne z hantlami|25 kg|T3|
+<table>
+<thead>
+<tr>
+<th>ćwiczenie</th>
+<th>ciężar</th>
+<th>ilość serii</th>
+<th>ilość powtórzeń</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>uginanie ramion ze sztangą łamaną</td>
+<td>60 kg</td>
+<td>4</td>
+<td>8–10</td>
+</tr>
+<tr>
+<td>uginanie ramion z prostą sztangą</td>
+<td>60–70 kg</td>
+<td>4</td>
+<td>8–10</td>
+</tr>
+<tr>
+<td>uginanie ramion naprzemienne z hantlami</td>
+<td>25 kg</td>
+<td>T3</td>
+</tr>
+</tbody>
+</table>
+
 
 
 ## Trening Pudziana #2
-|ćwiczenie|ilość serii|ilość powtórzeń|
-|---|---|---|
-|Uginanie podudzi na maszynie|6|20|
-|Prostowanie podudzi na maszynie|6|15|
-|Podciąganie się na drążku nachwytem|6|15|
-|Podciąganie się na drążku podchwytem|6|10|
-|Ściąganie drążka wyciągu górnego do karku|4|15|
-|Wiosłowanie sztangą w opadzie|4|15|
+<table>
+<thead>
+<tr>
+<th>ćwiczenie</th>
+<th>ilość serii</th>
+<th>ilość powtórzeń</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Uginanie podudzi na maszynie</td>
+<td>6</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Prostowanie podudzi na maszynie</td>
+<td>6</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Podciąganie się na drążku nachwytem</td>
+<td>6</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Podciąganie się na drążku podchwytem</td>
+<td>6</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Ściąganie drążka wyciągu górnego do karku</td>
+<td>4</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Wiosłowanie sztangą w opadzie</td>
+<td>4</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
 
 ![pudzian](pudzian.png)
 
